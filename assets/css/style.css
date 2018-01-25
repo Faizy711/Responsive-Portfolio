@@ -34,7 +34,7 @@ nav{
 .navbar-brand{
     background: #4aaaa5;
     color: #eee;
-    min-height: 80px;
+    min-height: 86px;
     text-align: center;
     font-family: Blonde;
     font-size: 20px;
@@ -112,6 +112,9 @@ nav{
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%)
   }
+
+
+  
   
 .pic:hover .image {
     opacity: 0.3;
